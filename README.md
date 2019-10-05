@@ -7,6 +7,6 @@ cualquier cosa
 * Viñeta 2
 * Viñeta 3
 
-[] lista de chequeo 1
+- [X] lista de chequeo 1
 
-[] lista de chequeo 1
+- [X] lista de chequeo 1
