@@ -11,4 +11,4 @@ cualquier cosa
 
 - [X] lista de chequeo 1
 
-(http://team.co/)
+este es un hipervinculo http://team.co/
